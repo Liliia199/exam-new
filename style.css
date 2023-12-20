@@ -1,0 +1,104 @@
+body, html{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+.main{
+    height: 100vh;
+    background-image: linear-gradient(rgba(40, 31, 72, 0.80), rgba(69, 48, 110, 0.80)),
+    url(./image/homebg.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.header{
+    height: 10%;
+    width: 100%;
+}
+.logo{
+    padding: 1% 0 0 15%;
+    display: inline-block;
+}
+.nav{
+    list-style-type: none;
+    color: white;
+    display: inline-block;
+    position: absolute;
+    left: 40%;
+    width: 51%;
+    
+}
+li{
+    float: left;
+    margin-right: 30px;
+    margin-top: 15px;
+}
+li:hover{
+    color: #00e0d0;
+}
+
+.header_main{
+    height: 80%;
+    width: 100%;
+}
+.main1{
+    height: 50%;
+    width: 80%;
+    padding: 10% 0 0 0;
+    position: absolute;
+    left: 10%;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+.separator{
+    height: 1.5px;
+    width: 40px;
+    margin: 20px auto;
+    background: #00e0d0;
+}
+p{
+    margin: 0 0 15px 0;
+    color:#aeadaf;
+}
+.learn{
+    height: 10%;
+    width: 13%;
+    border: white 2px solid;
+    display: inline-block;
+    text-align: center;
+    margin-top: 5%;
+    color: white;
+    position: absolute;
+    right: 44%;
+}
+.learn:hover{
+    border: 2px solid #008897;
+    color: #00ddcb;
+}
+b{
+    display: inline-block;
+    margin: 9px 0 0 0;
+}
+.point{
+    text-align: center;
+    height: 5%;
+    width: 100%;
+    position: absolute;
+    top: 80%;
+}
+span{
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    text-align: center;
+    margin: 5px 7px;
+    border-radius: 30px;
+    border: 2px solid #80788f;
+}
+
+
+
+
+

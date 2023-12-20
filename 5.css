@@ -1,0 +1,80 @@
+.footer{
+    height: 75%;
+    width: 100%;
+}
+.foo{
+    height: 85%;
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 0 0 10%;
+}
+.foo1{
+    height: 80%;
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+}
+#Name, #email, #subject{
+    margin: 15px 0 0 0;
+    width: 90%;
+    padding: 10px;
+}
+#story{
+    height: 140px;
+    width: 93%;
+    margin: 18px 0 0 0;
+}
+.submit{
+    height: 7%;
+    width: 25%;
+    border: 2px solid #00e2d2;;
+    text-align: center;
+    margin: 23px 0 0 0;
+    color: #00e2d2;
+    padding: 8px 0 0 0;
+}
+.phfoo{
+    height: 85%;
+    width: 100%;
+    display: inline-block;
+
+}
+.im{
+    position: relative;
+}
+.im1{
+    position: relative;
+    top: 90px;
+    left: -167px;
+}
+.im2{
+    position: relative;
+    top: 160px;
+    left: -325px;
+}
+.im3{
+    position: relative;
+    top: 270px;
+    left: -460px;
+}
+.im4{
+    position: relative;
+     top: -50px;
+     left: 300px;
+}
+.im5{
+    position: relative;
+    top: 15px;
+    left: 190px;
+}
+.im6{
+    position: relative;
+    top: 90px;
+    left: 45px;
+}
+.im8{
+    position: relative;
+    top: 200px;
+    left: -95px;
+}

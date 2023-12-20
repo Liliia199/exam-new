@@ -1,0 +1,63 @@
+.expertise{
+    height: 85%;
+    width: 100%;
+    text-align: center;
+}
+.expert{
+    height: 100%;
+    width: 90%;
+    margin-left: 7%;
+    padding: 30px 0 20px 0;
+    overflow: hidden;
+    text-align: center;
+    margin-right: 15%;
+}
+h5{text-align: center;
+    margin: 21px 0 8px 0;
+}
+.separator2{
+    height: 2px;
+    width: 50px;
+    margin: 20px auto;
+    background: #c6c4c9;
+}
+.monitor, .pensil, .phone, .circle, .game, .heart{
+    margin-bottom: -4px;
+    margin-top: 12px;
+    display: inline-block;
+    vertical-align: bottom;
+    width: 25%;
+    height: 50%;
+    margin-right: 55px;
+}
+hr{
+    border: 1px solid #c6c4c9;
+    width: 100%; 
+    margin: 0 0 15px 0;    
+}
+.bloks{
+    display: flex;
+    height: 70%;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.iconm, .cir, .game1, .hear, .pen, .ph{
+    width: 100%;
+    height: 20%;
+}
+.bord{
+    position: absolute;
+    border-left: 2px solid #c6c4c9;
+    height: 60%;
+    left: 36%;
+   bottom: -185%;
+}
+.borde{
+    position: absolute;
+    border-left: 2px solid #c6c4c9;
+    height: 60%;
+    left: 63%;
+    bottom: -185%;
+}

@@ -1,0 +1,63 @@
+.about{
+    height: 50%;
+    width: 100%;
+    position: relative;
+}
+.photo1, .photo2, .photo3, .photo4, .photo5, .photo6, .photo7, .photo8, .photo9, .photo10, .photo11, .photo12{
+    height: 50%;
+    width: 16.5%;
+    position: absolute;
+}
+.photo2{
+    left: 242px;
+}
+.photo3{
+    left: 484px;
+}
+.photo4{
+    left: 728px;
+}
+.photo5{
+    left: 970px;
+    z-index: -1;
+}
+.photo6{
+    left: 1211px;
+}
+.photo7{
+    top: 166px;
+}
+.photo8{
+    left: 242px;
+    top: 166px;
+}
+.photo9{
+    left: 484px;
+    top: 166px;
+}
+.photo10{
+    left: 727px;
+    top: 166px;
+}
+.photo11{
+    left: 969px;
+    top: 166px;
+}
+.photo12{
+    left: 1211px;
+    top: 166px;
+}
+.loadmore{
+    height: 25%;
+    width: 100%;
+    text-align: center;
+}
+.lo{
+    height: 15%;
+    width: 10%;
+    border: 2px solid #00e2ce;
+    color: #00e2d2;
+    display: inline-block;
+    margin: 60px 0 0 0;
+    padding: 5px 0 0 0;
+}
